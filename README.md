@@ -31,3 +31,4 @@ Developer mailing list: https://groups.io/g/termux-dev
 General chat: https://gitter.im/termux/termux or #termux on IRC/freenode.
 
 Developer chat: https://gitter.im/termux/dev or #termux/development on IRC/freenode.
+
